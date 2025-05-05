@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello i am a view file in view </h1>
+    
+
+<h1>now i fonr of view show a about fiel but background behid the scene shari.blade.php in view </h1>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
