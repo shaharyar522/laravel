@@ -6,17 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    
 
-<h1>now i fonr of view show a about fiel but background behid the scene shari.blade.php in view </h1>
+<h1>Now here  is file first Post_Pages</h1>
+<h2>hello i am now </h2>
+
 </body>
 </html>
-
-
-
-
-
-
-
-
-
